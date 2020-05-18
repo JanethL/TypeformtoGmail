@@ -1,0 +1,8 @@
+{
+  "name": "TypeformtoGmail",
+  "author": "Janeth Ledezma <janeth@stdlib.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
